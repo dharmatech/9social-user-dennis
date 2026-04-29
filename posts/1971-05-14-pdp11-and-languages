@@ -1,6 +1,0 @@
-id: dennis-1971-05-14-pdp11-languages
-author: dennis
-date: 1971-05-14T22:43:00Z
-title: PDP-11 and thoughts on languages
-
-We’ve moved the system onto a PDP-11, which gives us more room to grow. It’s still a small environment, but it’s becoming genuinely useful. I’ve been thinking more about programming languages as well—how to make system programming less tied to machine details.
